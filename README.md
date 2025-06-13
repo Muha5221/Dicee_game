@@ -18,15 +18,25 @@ A simple web-based dice game that randomly rolls two dice when the page is refre
 ## Files Structure
 dicee-game/
 ├── index.html # Main HTML file
+
 ├── styles.css # CSS styles
+
 ├── index.js # JavaScript functionality
+
 ├── images/ # Dice images
+
 │ ├── dice1.png
+
 │ ├── dice2.png
+
 │ ├── dice3.png
+
 │ ├── dice4.png
+
 │ ├── dice5.png
+
 │ └── dice6.png
+
 └── README.md # This file
 
 
