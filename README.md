@@ -17,6 +17,7 @@ A simple web-based dice game that randomly rolls two dice when the page is refre
 
 ## Files Structure
 dicee-game/
+
 ├── index.html # Main HTML file
 
 ├── styles.css # CSS styles
